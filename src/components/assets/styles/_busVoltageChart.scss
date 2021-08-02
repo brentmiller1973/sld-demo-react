@@ -1,0 +1,84 @@
+#divBusVoltageChart {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+
+.chart-wrapper {
+  width: 100%;
+  height: 66px;
+  background-color: white;
+  position: relative;
+  border: none;
+  color: black;
+}
+
+.axis-line {
+  height: 2px;
+  background-color: transparent;
+  position: absolute;
+  width: 100%;
+  top: 25px;
+}
+
+.axis-label-low {
+  font-size: 1em;
+  position: absolute;
+  top: calc(25px - 1.2em);
+  left: calc(25% - 0.5em);
+}
+
+.axis-label-center {
+  font-size: 1em;
+  position: absolute;
+  top: calc(25px - 1.2em);
+  left: calc(50% - 0.5em);
+}
+
+.axis-label-high {
+  font-size: 1em;
+  position: absolute;
+  top: calc(25px - 1.2em);
+  left: calc(75% - 0.5em);
+}
+
+.axis-vert-line-low {
+  width: 2px;
+  height: calc(80px - 52px);
+  background-color: black;
+  position: absolute;
+  top: 25px;
+  left: 25%;
+}
+
+.axis-vert-line-center {
+  width: 2px;
+  height: calc(80px - 52px);
+  background-color: black;
+  position: absolute;
+  top: 25px;
+  left: 50%;
+}
+
+.axis-vert-line-high {
+  width: 2px;
+  height: calc(80px - 52px);
+  background-color: black;
+  position: absolute;
+  top: 25px;
+  left: 75%;
+}
+
+.value-bar {
+  height: calc(80px - 60px);
+  width: 50px;
+  background-color: red;
+  opacity: 0.85;
+  position: absolute;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

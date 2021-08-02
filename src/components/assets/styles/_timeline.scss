@@ -1,0 +1,119 @@
+.leaflet-timeline-control {
+  /* background: white; */
+  background-color: transparent;
+  background-clip: padding-box;
+  box-sizing: border-box;
+  display: block;
+  //margin-left: 25px;
+  //margin-right: 25px;
+  width: 480px;
+}
+
+.controlPanel {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  width: auto;
+  max-width: 700px;
+  height: 60px;
+  border-radius: 4px;
+
+  background-color: #272727;
+
+  box-shadow: 0 5px 20px .05px #130f0a inset,
+        5px 0 10px -4px #130f0a inset,
+        -0.5px 0 3px 1px #130f0a inset,
+        0 0 0 2px rgba(0,0,0,1),
+        0 65px 50px -10px rgba(0,0,0,-0.05);
+
+  //box-shadow:
+  //        0 0 2px 2px #444,
+  //        0 0 0 5px #222,
+  //        0 0 7px 7px #111;
+
+
+  /*
+background-color: #333;
+background-image: linear-gradient(90deg, #e6ebee, #f0f0f0);
+
+
+box-shadow: 0 25px 10px -25px rgba(0,0,0,0.1),
+       0px -10px 10px 10px #b1b8c0 inset,
+       0px 1px 0px 2px #b1b8c0 inset,
+       0 25px 10px -25px rgba(0,0,0,0.1),
+       0 15px 30px -10px rgba(0,0,0,0.5);
+ */
+}
+
+.controlPanel button {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+
+.controlPanel svg {
+  width: auto;
+  height: 20px;
+
+  /*
+  margin-left: 32px;
+  margin-right: 32px;
+  */
+}
+
+.controlPanel svg path{
+  transition: width 2s ease;
+}
+
+.controlPanel button:hover svg path{
+  fill: limegreen;
+  transition: width .5s ease;
+}
+
+.lcdPanel {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background-color: #99a883;
+  min-width: 250px;
+  height: 40px;
+  padding: 8px;
+  border-radius: 3px;
+  box-shadow: 0 5px 20px .05px #130f0a inset,
+  5px 0 10px -4px #130f0a inset,
+  -0.5px 0 3px 1px #130f0a inset,
+  0 0 0 2px rgba(0,0,0,1),
+  0 65px 50px -10px rgba(0,0,0,-0.05);
+}
+
+.lcdPanel p{
+  display: block;
+  font-family: sans-serif;
+  opacity: .5;
+  font-size: 1.6em;
+  margin: 0
+  /* transform: scaleY(1.5); */
+
+}
+
+
+.lcdPanel p:nth-child(1){
+  display: inline;
+  font-family: sans-serif;
+  opacity: .5;
+  /* margin: auto auto auto 150px; */
+  font-size: .9em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.lcdPanel p:nth-child(2){
+  display: inline;
+  font-family: sans-serif;
+  opacity: .5;
+  /* margin: auto auto auto 150px; */
+  margin-left: 15%;
+  margin-bottom: 8px;
+  font-size: .9em;
+  font-weight: bold;
+}

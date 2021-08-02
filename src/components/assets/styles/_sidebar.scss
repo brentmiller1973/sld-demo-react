@@ -1,0 +1,235 @@
+/* Sidebar */
+.leaflet-sidebar {
+  position: absolute;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  z-index: 2000;
+  font-family: Roboto,Helvetica Neue,sans-serif;
+}
+
+.leaflet-sidebar.left {
+  left: -500px;
+  transition: left 0.5s, width 0.5s;
+  padding-right: 0;
+}
+
+.leaflet-sidebar.left.visible {
+  left: 0;
+}
+
+.leaflet-sidebar.right {
+  right: -500px;
+  transition: right 0.5s, width 0.5s;
+  padding-left: 0;
+}
+
+.leaflet-sidebar.right.visible {
+  right: 0;
+}
+
+.leaflet-sidebar>.leaflet-control {
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 8px 24px;
+  font-size: 1.1em;
+  background: white;
+  box-shadow: 0 1px 7px rgba(0, 0, 0, 0.65);
+}
+
+.leaflet-touch .leaflet-sidebar>.leaflet-control {
+  box-shadow: none;
+  border: none;
+  background-clip: padding-box;
+}
+
+@media (max-width: 767px) {
+  .leaflet-sidebar {
+    width: 100%;
+    padding: 0;
+  }
+  .leaflet-sidebar.left.visible~.leaflet-left {
+    left: 100%;
+  }
+  .leaflet-sidebar.right.visible~.leaflet-right {
+    right: 100%;
+  }
+  .leaflet-sidebar.left {
+    left: -100%;
+  }
+  .leaflet-sidebar.left.visible {
+    left: 0;
+  }
+  .leaflet-sidebar.right {
+    right: -100%;
+  }
+  .leaflet-sidebar.right.visible {
+    right: 0;
+  }
+  .leaflet-sidebar>.leaflet-control {
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+  }
+  .leaflet-touch .leaflet-sidebar>.leaflet-control {
+    border: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .leaflet-sidebar {
+    width: 305px;
+  }
+  .leaflet-sidebar.left.visible~.leaflet-left {
+    left: 305px;
+  }
+  .leaflet-sidebar.right.visible~.leaflet-right {
+    right: 305px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .leaflet-sidebar {
+    width: 390px;
+  }
+  .leaflet-sidebar.left.visible~.leaflet-left {
+    left: 390px;
+  }
+  .leaflet-sidebar.right.visible~.leaflet-right {
+    right: 390px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .leaflet-sidebar {
+    width: 460px;
+  }
+  .leaflet-sidebar.left.visible~.leaflet-left {
+    left: 460px;
+  }
+  .leaflet-sidebar.right.visible~.leaflet-right {
+    right: 460px;
+  }
+}
+
+.leaflet-sidebar .close {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  width: 31px;
+  height: 31px;
+  color: #fff;
+  font-size: 25px;
+  line-height: 1em;
+  text-align: center;
+  background: transparent;
+  -webkit-border-radius: 16px;
+  border-radius: 16px;
+  cursor: pointer;
+  z-index: 998;
+  fill: #fff;
+}
+
+.leaflet-left {
+  transition: left 0.5s;
+}
+
+.leaflet-right {
+  transition: right 0.5s;
+}
+
+#sidebar {
+  background: rgba(37,37,38, 0.95);
+  box-shadow: 10px 10px 20px 10px rgba(0,0,0,.25) !important;
+  color: white;
+  border-left: 10px solid #1976d2;
+}
+
+#sidebar img {
+  width: 100%;
+  height: auto;
+}
+
+#sidebar .side-bar-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#sidebar .side-bar-flex-row .side-bar-flex-row {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#sidebar h1{
+  display: inline-block;
+  font-size: 1.8em;
+  margin-bottom: 0px;
+  font-weight: 300;
+  border-bottom: 4px solid #1976d2;
+  width: auto;
+  padding-bottom: 4px;
+}
+#sidebar .h2, #sidebar h2{
+  display: block;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.sidebar-panel {
+  background-color: white;
+  color: #222;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+}
+
+.sidebar-panel .panel-heading {
+  background-color: #1976d2;
+  border-bottom: 1px solid #1976d2;
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  color: white;
+}
+
+.sidebar-panel .panel-heading.open .panel-toggle{
+  transform: rotateX(180deg);
+}
+
+.sidebar-panel .panel-body {
+  padding: 10px;
+}
+
+.sidebar-panel .panel-body.hidden {
+  display: none;
+}
+
+.sidebar-panel table {
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12)
+}
+
+.sidebar-panel th, .sidebar-panel td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.sidebar-panel table tbody tr:hover {
+  background-color: #eee;
+}
