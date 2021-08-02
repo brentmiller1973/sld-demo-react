@@ -1,0 +1,6655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.113221,
+            34.253003
+          ],
+          [
+            -117.128977,
+            34.251891
+          ]
+        ]
+      },
+      "properties": {
+        "index": 0,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 2,
+        "bus_m": 0,
+        "reg_bus": null,
+        "g": 0,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -111.1111111111111,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 1000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 323,
+        "bus_m_number": 325,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 192.97223052854952,
+        "i_mk_mag": 192.97223052854997,
+        "P_km": -151.72316398675204,
+        "P_mk": 151.72316398675204,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -69.9036423210174,
+        "Q_mk": 73.25508767898299,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 167.05220052395475,
+        "S_mk_mag": 168.48212475217167,
+        "r": 0,
+        "x": 0.009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.115363,
+            35.745344
+          ],
+          [
+            -117.485272,
+            36.438958
+          ]
+        ]
+      },
+      "properties": {
+        "index": 1,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 4,
+        "bus_m": 3,
+        "reg_bus": null,
+        "g": 1.912858660998937,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -14.45270988310308,
+        "b_k": 0.071,
+        "b_m": 0.071,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 321,
+        "bus_m_number": 322,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 148.53432251529063,
+        "i_mk_mag": 151.13214774610162,
+        "P_km": -136.4911520060597,
+        "P_mk": 138.51761405217678,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 28.826369510874972,
+        "Q_mk": -25.951660266362637,
+        "Q_k_shunt": -6.2627527783099985,
+        "Q_m_shunt": -6.173584547839999,
+        "S_km_mag": 139.50195036313576,
+        "S_mk_mag": 140.92770513028483,
+        "r": 0.009,
+        "x": 0.068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.063508,
+            34.462466
+          ],
+          [
+            -117.113221,
+            34.253003
+          ]
+        ]
+      },
+      "properties": {
+        "index": 2,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 5,
+        "bus_m": 2,
+        "reg_bus": null,
+        "g": 6.085192697768764,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -44.62474645030427,
+        "b_k": 0.023,
+        "b_m": 0.023,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 0,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 320,
+        "bus_m_number": 323,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 237.4250807100168,
+        "i_mk_mag": 236.5838762945297,
+        "P_km": -197.45984111651688,
+        "P_mk": 199.14571668952559,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -38.82978017534445,
+        "Q_mk": 47.8168641792212,
+        "Q_k_shunt": -1.6523792480000001,
+        "Q_m_shunt": -1.7236242835200002,
+        "S_km_mag": 201.24149840981028,
+        "S_mk_mag": 204.80593003064848,
+        "r": 0.0029999999999999996,
+        "x": 0.021999999999999995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.12442,
+            34.917631
+          ],
+          [
+            -117.063508,
+            34.462466
+          ]
+        ]
+      },
+      "properties": {
+        "index": 3,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 6,
+        "bus_m": 5,
+        "reg_bus": null,
+        "g": 3.076923076923077,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -24.61538461538461,
+        "b_k": 0.0415,
+        "b_m": 0.0415,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 319,
+        "bus_m_number": 320,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 84.76191786238203,
+        "i_mk_mag": 83.34049079302929,
+        "P_km": -69.10850824119805,
+        "P_mk": 69.46173940154452,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -15.905383812782711,
+        "Q_mk": 12.844905259714809,
+        "Q_k_shunt": -2.9048609318400005,
+        "Q_m_shunt": -2.9814669040000004,
+        "S_km_mag": 70.91521096038332,
+        "S_mk_mag": 70.63939999617162,
+        "r": 0.005000000000000001,
+        "x": 0.04000000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.976571,
+            35.505813
+          ],
+          [
+            -117.115363,
+            35.745344
+          ]
+        ]
+      },
+      "properties": {
+        "index": 4,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 7,
+        "bus_m": 4,
+        "reg_bus": null,
+        "g": 4.37956204379562,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -37.95620437956205,
+        "b_k": 0.0275,
+        "b_m": 0.0275,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 318,
+        "bus_m_number": 321,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 243.78272746676467,
+        "i_mk_mag": 246.19753315402457,
+        "P_km": -205.60656364491408,
+        "P_mk": 207.4082954737186,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 112.85623460544572,
+        "Q_mk": -102.21243965424844,
+        "Q_k_shunt": -2.5455001275,
+        "Q_m_shunt": -2.425714104275,
+        "S_km_mag": 234.54336209577434,
+        "S_mk_mag": 231.22626116292832,
+        "r": 0.0029999999999999996,
+        "x": 0.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.05583,
+            35.378433
+          ],
+          [
+            -117.485272,
+            36.438958
+          ]
+        ]
+      },
+      "properties": {
+        "index": 5,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 8,
+        "bus_m": 3,
+        "reg_bus": null,
+        "g": 1.247660636306925,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.357454772301935,
+        "b_k": 0.1105,
+        "b_m": 0.1105,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 317,
+        "bus_m_number": 322,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 171.93626241372192,
+        "i_mk_mag": 173.22248370061016,
+        "P_km": -157.27738746531634,
+        "P_mk": 161.48126896154739,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 16.396673025776455,
+        "Q_mk": -3.822367600463465,
+        "Q_k_shunt": -9.3466213945,
+        "Q_m_shunt": -9.60818440192,
+        "S_km_mag": 158.12978054190006,
+        "S_mk_mag": 161.52650160114493,
+        "r": 0.013999999999999997,
+        "x": 0.10499999999999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.05583,
+            35.378433
+          ],
+          [
+            -116.976571,
+            35.505813
+          ]
+        ]
+      },
+      "properties": {
+        "index": 6,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 8,
+        "bus_m": 7,
+        "reg_bus": null,
+        "g": 10,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -70,
+        "b_k": 0.015,
+        "b_m": 0.015,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 317,
+        "bus_m_number": 318,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 344.62568603386796,
+        "i_mk_mag": 342.38187758398544,
+        "P_km": -194.88609423816908,
+        "P_mk": 197.2464721948614,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -249.95626596993094,
+        "Q_mk": 263.8216849167779,
+        "Q_k_shunt": -1.2687721349999999,
+        "Q_m_shunt": -1.388454615,
+        "S_km_mag": 316.95224344534836,
+        "S_mk_mag": 329.40560442355235,
+        "r": 0.002,
+        "x": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.251589,
+            35.138367
+          ],
+          [
+            -117.12442,
+            34.917631
+          ]
+        ]
+      },
+      "properties": {
+        "index": 7,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 9,
+        "bus_m": 6,
+        "reg_bus": null,
+        "g": 5.576208178438662,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -42.75092936802974,
+        "b_k": 0.0245,
+        "b_m": 0.0245,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 316,
+        "bus_m_number": 319,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 135.32963088100897,
+        "i_mk_mag": 136.1062291688772,
+        "P_km": 112.44971764062682,
+        "P_mk": -111.89694847976543,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 21.88333323250661,
+        "Q_mk": -21.116014702569355,
+        "Q_k_shunt": -1.7556604704800003,
+        "Q_m_shunt": -1.7149178995200003,
+        "S_km_mag": 114.5592391333917,
+        "S_mk_mag": 113.87191557184944,
+        "r": 0.0029999999999999996,
+        "x": 0.022999999999999996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.251589,
+            35.138367
+          ],
+          [
+            -117.05583,
+            35.378433
+          ]
+        ]
+      },
+      "properties": {
+        "index": 8,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 9,
+        "bus_m": 8,
+        "reg_bus": null,
+        "g": 4.37956204379562,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -37.95620437956205,
+        "b_k": 0.0275,
+        "b_m": 0.0275,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 316,
+        "bus_m_number": 317,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 461.9727901826594,
+        "i_mk_mag": 459.48731987538116,
+        "P_km": -345.7945922064779,
+        "P_mk": 352.1671832092121,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -182.65055201777014,
+        "Q_mk": 233.58295249036573,
+        "Q_k_shunt": -1.9706393036,
+        "Q_m_shunt": -2.3260822474999996,
+        "S_km_mag": 391.06920634542485,
+        "S_mk_mag": 422.59048808938803,
+        "r": 0.0029999999999999996,
+        "x": 0.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.386433,
+            35.26597
+          ],
+          [
+            -118.034817,
+            35.206582
+          ]
+        ]
+      },
+      "properties": {
+        "index": 9,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 10,
+        "bus_m": 1,
+        "reg_bus": null,
+        "g": 2.5426807119506,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -18.88848528877588,
+        "b_k": 0.0545,
+        "b_m": 0.0545,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 315,
+        "bus_m_number": 324,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 270.47038530413545,
+        "i_mk_mag": 273.79677060259235,
+        "P_km": 203.57141393124954,
+        "P_mk": -198.3738580096755,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 98.69616884828574,
+        "Q_mk": -67.08698054402333,
+        "Q_k_shunt": -3.813084883625,
+        "Q_m_shunt": -3.1881422295199995,
+        "S_km_mag": 226.23495378764412,
+        "S_mk_mag": 209.41072202768672,
+        "r": 0.007,
+        "x": 0.052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.386433,
+            35.26597
+          ],
+          [
+            -117.115363,
+            35.745344
+          ]
+        ]
+      },
+      "properties": {
+        "index": 10,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 10,
+        "bus_m": 4,
+        "reg_bus": null,
+        "g": 2.462043496101764,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.10668855149774,
+        "b_k": 0.0515,
+        "b_m": 0.0515,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 315,
+        "bus_m_number": 321,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 403.95857915311774,
+        "i_mk_mag": 400.2130423259819,
+        "P_km": -319.36443179692316,
+        "P_mk": 329.08830183032916,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -110.34849948520656,
+        "Q_mk": 181.61421349623276,
+        "Q_k_shunt": -3.603190302875,
+        "Q_m_shunt": -4.542700958914999,
+        "S_km_mag": 337.89115353262537,
+        "S_mk_mag": 375.876087222139,
+        "r": 0.006000000000000001,
+        "x": 0.049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.386433,
+            35.26597
+          ],
+          [
+            -117.251589,
+            35.138367
+          ]
+        ]
+      },
+      "properties": {
+        "index": 11,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 10,
+        "bus_m": 9,
+        "reg_bus": null,
+        "g": 6.8259385665529,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -58.02047781569966,
+        "b_k": 0.018,
+        "b_m": 0.018,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 315,
+        "bus_m_number": 316,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 64.75691629627566,
+        "i_mk_mag": 61.83024880743048,
+        "P_km": 13.787697561888823,
+        "P_mk": -13.70755454569661,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -52.38173890730591,
+        "Q_mk": 50.51371406171933,
+        "Q_k_shunt": -1.2593674845,
+        "Q_m_shunt": -1.28987299872,
+        "S_km_mag": 54.16592263601978,
+        "S_mk_mag": 52.34054222046605,
+        "r": 0.002,
+        "x": 0.017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.684879,
+            34.944964
+          ],
+          [
+            -117.251589,
+            35.138367
+          ]
+        ]
+      },
+      "properties": {
+        "index": 12,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 11,
+        "bus_m": 9,
+        "reg_bus": null,
+        "g": 1.426126640045636,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -16.82829435253851,
+        "b_k": 0.041,
+        "b_m": 0.041,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 314,
+        "bus_m_number": 316,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 383.6372438566452,
+        "i_mk_mag": 382.0308518822002,
+        "P_km": -294.7157402966364,
+        "P_mk": 302.0610838412381,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -34.233941749522714,
+        "Q_mk": 115.51867336314237,
+        "Q_k_shunt": -2.4522781600399997,
+        "Q_m_shunt": -2.9380440526400005,
+        "S_km_mag": 296.6973716538523,
+        "S_mk_mag": 323.39675673532014,
+        "r": 0.004999999999999999,
+        "x": 0.05899999999999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.018855,
+            34.265268
+          ],
+          [
+            -117.113221,
+            34.253003
+          ]
+        ]
+      },
+      "properties": {
+        "index": 13,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 12,
+        "bus_m": 2,
+        "reg_bus": null,
+        "g": 1.430429128738622,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.31339401820546,
+        "b_k": 0.091,
+        "b_m": 0.091,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 313,
+        "bus_m_number": 323,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 277.0131248876055,
+        "i_mk_mag": 274.47577147728816,
+        "P_km": -220.06219591096877,
+        "P_mk": 228.48662434522134,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -11.151260664577153,
+        "Q_mk": 65.20362320778126,
+        "Q_k_shunt": -5.757650852589999,
+        "Q_m_shunt": -6.81955694784,
+        "S_km_mag": 220.34454992934803,
+        "S_mk_mag": 237.6081858524588,
+        "r": 0.011,
+        "x": 0.087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.119887,
+            34.722963
+          ],
+          [
+            -117.113221,
+            34.253003
+          ]
+        ]
+      },
+      "properties": {
+        "index": 14,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 13,
+        "bus_m": 2,
+        "reg_bus": null,
+        "g": 1.256149900554799,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.15387836281796,
+        "b_k": 0.1015,
+        "b_m": 0.1015,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 312,
+        "bus_m_number": 323,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 305.0660904648677,
+        "i_mk_mag": 301.42416363081617,
+        "P_km": -232.9594066580996,
+        "P_mk": 244.09611044305234,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -15.753986779961565,
+        "Q_mk": 92.22331037930948,
+        "Q_k_shunt": -5.945936425659999,
+        "Q_m_shunt": -7.60642890336,
+        "S_km_mag": 233.49148432000044,
+        "S_mk_mag": 260.9368699719249,
+        "r": 0.011999999999999999,
+        "x": 0.097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.119887,
+            34.722963
+          ],
+          [
+            -118.018855,
+            34.265268
+          ]
+        ]
+      },
+      "properties": {
+        "index": 15,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 13,
+        "bus_m": 12,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 0,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 312,
+        "bus_m_number": 313,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 123.70698371000275,
+        "i_mk_mag": 120.60756547246385,
+        "P_km": -87.04226315377119,
+        "P_mk": 87.93898949044188,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -37.26240377255401,
+        "Q_mk": 38.34363731941948,
+        "Q_k_shunt": -2.9290327219999996,
+        "Q_m_shunt": -3.1635444245,
+        "S_km_mag": 94.6828511919619,
+        "S_mk_mag": 95.93487580376193,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.111933,
+            34.742094
+          ],
+          [
+            -117.684879,
+            34.944964
+          ]
+        ]
+      },
+      "properties": {
+        "index": 16,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 14,
+        "bus_m": 11,
+        "reg_bus": null,
+        "g": 2.794857462269424,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -23.47680268306316,
+        "b_k": 0.044,
+        "b_m": 0.044,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 311,
+        "bus_m_number": 314,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 131.26567541416028,
+        "i_mk_mag": 130.73376161211678,
+        "P_km": -99.85418656309997,
+        "P_mk": 100.71325307073357,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -6.886785171126694,
+        "Q_mk": 8.912976087449092,
+        "Q_k_shunt": -2.5582546004399997,
+        "Q_m_shunt": -2.6317131473599993,
+        "S_km_mag": 100.09139016005135,
+        "S_mk_mag": 101.10687655557888,
+        "r": 0.005,
+        "x": 0.042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.111933,
+            34.742094
+          ],
+          [
+            -118.018855,
+            34.265268
+          ]
+        ]
+      },
+      "properties": {
+        "index": 17,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 14,
+        "bus_m": 12,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 311,
+        "bus_m_number": 313,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 200.13011469127346,
+        "i_mk_mag": 198.4009180516288,
+        "P_km": -150.0329562104461,
+        "P_mk": 152.42022466966162,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -27.879069025297593,
+        "Q_mk": 40.906564774022016,
+        "Q_k_shunt": -2.9071075005000004,
+        "Q_m_shunt": -3.1635444245,
+        "S_km_mag": 152.60121375324292,
+        "S_mk_mag": 157.8140422458071,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.104525,
+            34.729316
+          ],
+          [
+            -118.119887,
+            34.722963
+          ]
+        ]
+      },
+      "properties": {
+        "index": 18,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 15,
+        "bus_m": 13,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 310,
+        "bus_m_number": 312,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 241.65606556268747,
+        "i_mk_mag": 241.65606556268742,
+        "P_km": -183.62321485179726,
+        "P_mk": 184.79116793226203,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 41.1830600205227,
+        "Q_mk": 7.870969358997204,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 188.1848279356316,
+        "S_mk_mag": 184.95871946036968,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.104525,
+            34.729316
+          ],
+          [
+            -118.111933,
+            34.742094
+          ]
+        ]
+      },
+      "properties": {
+        "index": 19,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 15,
+        "bus_m": 14,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 310,
+        "bus_m_number": 311,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 194.97972429698999,
+        "i_mk_mag": 194.97972429699,
+        "P_km": -147.8935673125247,
+        "P_mk": 148.65390917026332,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 34.37781135159143,
+        "Q_mk": -2.443453326570122,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 151.83656070179504,
+        "S_mk_mag": 148.67398957369787,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.127342,
+            34.735758
+          ],
+          [
+            -118.119887,
+            34.722963
+          ]
+        ]
+      },
+      "properties": {
+        "index": 20,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 16,
+        "bus_m": 13,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 309,
+        "bus_m_number": 312,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 186.25661470636047,
+        "i_mk_mag": 186.25661470636044,
+        "P_km": -134.5215983857069,
+        "P_mk": 135.2154289161444,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -16.017849488172065,
+        "Q_mk": 45.15873176654566,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 135.47188614052425,
+        "S_mk_mag": 142.55708776395412,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.127342,
+            34.735758
+          ],
+          [
+            -118.111933,
+            34.742094
+          ]
+        ]
+      },
+      "properties": {
+        "index": 21,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 16,
+        "bus_m": 14,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 309,
+        "bus_m_number": 311,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 141.43433364877168,
+        "i_mk_mag": 141.43433364877168,
+        "P_km": -100.83142067605621,
+        "P_mk": 101.23149409074965,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -20.382247698975853,
+        "Q_mk": 37.18533111610034,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 102.8708482360976,
+        "S_mk_mag": 107.8450937505249,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.654258,
+            34.224718
+          ],
+          [
+            -118.104525,
+            34.729316
+          ]
+        ]
+      },
+      "properties": {
+        "index": 22,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 17,
+        "bus_m": 15,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 308,
+        "bus_m_number": 310,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 49.23199634514621,
+        "i_mk_mag": 46.87085973536303,
+        "P_km": -24.80454402853716,
+        "P_mk": 25.800479188203283,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -24.488629963378205,
+        "Q_mk": 25.81795169353725,
+        "Q_k_shunt": -1.1278439999999996,
+        "Q_m_shunt": -1.364445929025,
+        "S_km_mag": 34.856253412363515,
+        "S_mk_mag": 36.49974460171926,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.654258,
+            34.224718
+          ],
+          [
+            -118.127342,
+            34.735758
+          ]
+        ]
+      },
+      "properties": {
+        "index": 23,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 17,
+        "bus_m": 16,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 308,
+        "bus_m_number": 309,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 49.75025542798932,
+        "i_mk_mag": 49.83250581937579,
+        "P_km": -35.17626317421799,
+        "P_mk": 36.24515885445513,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 1.817409639568213,
+        "Q_mk": -0.033980012246595005,
+        "Q_k_shunt": -1.1278439999999996,
+        "Q_m_shunt": -1.1903028200999999,
+        "S_km_mag": 35.223180843016436,
+        "S_mk_mag": 36.24517478266478,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.878178,
+            34.101266
+          ],
+          [
+            -118.654258,
+            34.224718
+          ]
+        ]
+      },
+      "properties": {
+        "index": 24,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 18,
+        "bus_m": 17,
+        "reg_bus": null,
+        "g": 4.023133014835303,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.33819461905959,
+        "b_k": 0.0085,
+        "b_m": 0.0085,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 307,
+        "bus_m_number": 308,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 157.56520072162797,
+        "i_mk_mag": 157.7752506545592,
+        "P_km": 115.00141243711433,
+        "P_mk": -111.02182465608541,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 26.60334013227733,
+        "Q_mk": -12.334265245764376,
+        "Q_k_shunt": -0.47702912866,
+        "Q_m_shunt": -0.42607439999999996,
+        "S_km_mag": 118.0383944686004,
+        "S_mk_mag": 111.70487746342792,
+        "r": 0.016,
+        "x": 0.061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2762,
+            34.887168
+          ],
+          [
+            -118.104525,
+            34.729316
+          ]
+        ]
+      },
+      "properties": {
+        "index": 25,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 19,
+        "bus_m": 15,
+        "reg_bus": null,
+        "g": 3.5741639009446,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.57314271125862,
+        "b_k": 1.2295,
+        "b_m": 1.2295,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 306,
+        "bus_m_number": 310,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 110.46529343011579,
+        "i_mk_mag": 229.07493942124714,
+        "P_km": -90.9848288974453,
+        "P_mk": 94.40403035722551,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 7.693306192152772,
+        "Q_mk": -151.36046064548893,
+        "Q_k_shunt": -84.005713904895,
+        "Q_m_shunt": -74.559389766055,
+        "S_km_mag": 91.30950689639943,
+        "S_mk_mag": 178.3875275755078,
+        "r": 0.014,
+        "x": 0.061000000000000006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.510487,
+            34.873885
+          ],
+          [
+            -118.104525,
+            34.729316
+          ]
+        ]
+      },
+      "properties": {
+        "index": 26,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 20,
+        "bus_m": 15,
+        "reg_bus": null,
+        "g": 2.780128127644144,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.63701196663846,
+        "b_k": 0.012,
+        "b_m": 0.012,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 305,
+        "bus_m_number": 310,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 25.567665270254107,
+        "i_mk_mag": 24.568546217302597,
+        "P_km": -16.170937795300986,
+        "P_mk": 16.31548555410527,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -10.863753528015778,
+        "Q_mk": 9.992419964091246,
+        "Q_k_shunt": -0.696681363,
+        "Q_m_shunt": -0.72770449548,
+        "S_km_mag": 19.48128255267012,
+        "S_mk_mag": 19.132263995800052,
+        "r": 0.023,
+        "x": 0.088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.563585,
+            34.632091
+          ],
+          [
+            -118.127342,
+            34.735758
+          ]
+        ]
+      },
+      "properties": {
+        "index": 27,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 21,
+        "bus_m": 16,
+        "reg_bus": null,
+        "g": 2.338674750974448,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.008228670420095,
+        "b_k": 0.014,
+        "b_m": 0.014,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 304,
+        "bus_m_number": 309,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 51.38824394776864,
+        "i_mk_mag": 51.81888723560321,
+        "P_km": -36.25845013297542,
+        "P_mk": 36.97822209963996,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 8.585714973670642,
+        "Q_mk": -7.289950568142915,
+        "Q_k_shunt": -0.7360577113400001,
+        "Q_m_shunt": -0.74063286584,
+        "S_km_mag": 37.26110180408756,
+        "S_mk_mag": 37.68994944194365,
+        "r": 0.026999999999999996,
+        "x": 0.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.04355,
+            35.217543
+          ],
+          [
+            -118.034817,
+            35.206582
+          ]
+        ]
+      },
+      "properties": {
+        "index": 28,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 22,
+        "bus_m": 1,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 303,
+        "bus_m_number": 324,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 273.80090803081674,
+        "i_mk_mag": 273.8009080308167,
+        "P_km": -196.87440398263803,
+        "P_mk": 198.373742727408,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -4.124971279948664,
+        "Q_mk": 67.09719856028835,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 196.9176130557634,
+        "S_mk_mag": 209.41388649828983,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.04355,
+            35.217543
+          ],
+          [
+            -118.127342,
+            34.735758
+          ]
+        ]
+      },
+      "properties": {
+        "index": 29,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 22,
+        "bus_m": 16,
+        "reg_bus": null,
+        "g": 2.049993387118106,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.869329453775956,
+        "b_k": 0.016,
+        "b_m": 0.016,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 303,
+        "bus_m_number": 309,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 21.897752842657866,
+        "i_mk_mag": 20.64718348323413,
+        "P_km": 13.009045932225117,
+        "P_mk": -12.868792296449039,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -8.876454039984212,
+        "Q_mk": 7.740811643970991,
+        "Q_k_shunt": -0.8275978239999999,
+        "Q_m_shunt": -0.84643756096,
+        "S_km_mag": 15.748863844439537,
+        "S_mk_mag": 15.017522434695513,
+        "r": 0.031,
+        "x": 0.119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.864859,
+            35.029937
+          ],
+          [
+            -118.2762,
+            34.887168
+          ]
+        ]
+      },
+      "properties": {
+        "index": 30,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 23,
+        "bus_m": 19,
+        "reg_bus": null,
+        "g": 1.270196118280662,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.877553094197744,
+        "b_k": 0.026,
+        "b_m": 0.026,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": false,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 302,
+        "bus_m_number": 306,
+        "reg_bus_number": null,
+        "status": "out-of-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 69.52832976547646,
+        "i_mk_mag": 67.25927447975563,
+        "P_km": 47.36768500680726,
+        "P_mk": -45.01865246485474,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -26.97668012100053,
+        "Q_mk": 32.62236604077825,
+        "Q_k_shunt": -1.59814636826,
+        "Q_m_shunt": -1.77645267306,
+        "S_km_mag": 54.5109058194312,
+        "S_mk_mag": 55.595843692221216,
+        "r": 0.05,
+        "x": 0.192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.864859,
+            35.029937
+          ],
+          [
+            -118.563585,
+            34.632091
+          ]
+        ]
+      },
+      "properties": {
+        "index": 31,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 23,
+        "bus_m": 21,
+        "reg_bus": null,
+        "g": 1.91659890811941,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.376001858520153,
+        "b_k": 0.017,
+        "b_m": 0.017,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 302,
+        "bus_m_number": 304,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 59.98462752660938,
+        "i_mk_mag": 61.385472690684516,
+        "P_km": 38.96095907438459,
+        "P_mk": -37.743429494226554,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 26.338716345589873,
+        "Q_mk": -23.59179842370954,
+        "Q_k_shunt": -1.04494185617,
+        "Q_m_shunt": -0.8937843637700001,
+        "S_km_mag": 47.028547827137025,
+        "S_mk_mag": 44.50999239328844,
+        "r": 0.033,
+        "x": 0.127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.821765,
+            35.047582
+          ],
+          [
+            -118.510487,
+            34.873885
+          ]
+        ]
+      },
+      "properties": {
+        "index": 32,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 24,
+        "bus_m": 20,
+        "reg_bus": null,
+        "g": 2.853807238292904,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.02607342067713,
+        "b_k": 0.0115,
+        "b_m": 0.0115,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 301,
+        "bus_m_number": 305,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 71.92791738825952,
+        "i_mk_mag": 72.07684400793372,
+        "P_km": 55.970956017644994,
+        "P_mk": -54.82945717852454,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 6.171846134115501,
+        "Q_mk": -3.1339809355510293,
+        "Q_k_shunt": -0.704818252435,
+        "Q_m_shunt": -0.6676529728750001,
+        "S_km_mag": 56.31020868574673,
+        "S_mk_mag": 54.91895129184508,
+        "r": 0.022000000000000002,
+        "x": 0.085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.821765,
+            35.047582
+          ],
+          [
+            -118.04355,
+            35.217543
+          ]
+        ]
+      },
+      "properties": {
+        "index": 33,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 24,
+        "bus_m": 22,
+        "reg_bus": null,
+        "g": 1.156774492070837,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.437807596853573,
+        "b_k": 0.0285,
+        "b_m": 0.0285,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 301,
+        "bus_m_number": 303,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 29.576415731319884,
+        "i_mk_mag": 33.8082935250596,
+        "P_km": -3.3087533216954568,
+        "P_mk": 3.86445607042587,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 22.916860453020863,
+        "Q_mk": -24.00586475432922,
+        "Q_k_shunt": -1.746723495165,
+        "Q_m_shunt": -1.4741586239999998,
+        "S_km_mag": 23.154488583578395,
+        "S_mk_mag": 24.31492470322286,
+        "r": 0.05500000000000001,
+        "x": 0.211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.821765,
+            35.047582
+          ],
+          [
+            -118.864859,
+            35.029937
+          ]
+        ]
+      },
+      "properties": {
+        "index": 34,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 24,
+        "bus_m": 23,
+        "reg_bus": null,
+        "g": 14.63414634146341,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -68.29268292682926,
+        "b_k": 0.2305,
+        "b_m": 0.2305,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 301,
+        "bus_m_number": 302,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 32.648861830775786,
+        "i_mk_mag": 15.966089486956953,
+        "P_km": 11.332419687082051,
+        "P_mk": -11.322357315400211,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -22.910267989267737,
+        "Q_mk": -5.337965823067242,
+        "Q_k_shunt": -14.127009320545,
+        "Q_m_shunt": -14.168182226304998,
+        "S_km_mag": 25.559814461459435,
+        "S_mk_mag": 12.51757381866912,
+        "r": 0.003000000000000001,
+        "x": 0.014000000000000004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.976571,
+            35.505813
+          ],
+          [
+            -115.536446,
+            35.82435
+          ]
+        ]
+      },
+      "properties": {
+        "index": 35,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 7,
+        "bus_m": 26,
+        "reg_bus": null,
+        "g": 1.183431952662722,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.467455621301776,
+        "b_k": 0.109,
+        "b_m": 0.109,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 318,
+        "bus_m_number": 223,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 328.87924096864197,
+        "i_mk_mag": 304.93318555656754,
+        "P_km": 75.35559673193865,
+        "P_mk": -62.15121608484744,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -307.3106045047615,
+        "Q_mk": 385.0255459124909,
+        "Q_k_shunt": -10.089436869,
+        "Q_m_shunt": -17.830666899999997,
+        "S_km_mag": 316.41471773593037,
+        "S_mk_mag": 390.00954432684983,
+        "r": 0.013,
+        "x": 0.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.197942,
+            35.316322
+          ],
+          [
+            -115.29021,
+            36.330981
+          ]
+        ]
+      },
+      "properties": {
+        "index": 36,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 28,
+        "bus_m": 27,
+        "reg_bus": null,
+        "g": 1.912858660998937,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -14.45270988310308,
+        "b_k": 0.071,
+        "b_m": 0.071,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 221,
+        "bus_m_number": 222,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 115.5527550425555,
+        "i_mk_mag": 119.16148534786413,
+        "P_km": -140.04527644686172,
+        "P_mk": 141.28427190966235,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 23.802365502263235,
+        "Q_mk": -35.79271829466247,
+        "Q_k_shunt": -10.73006553276,
+        "Q_m_shunt": -10.621586311909999,
+        "S_km_mag": 142.05362388401522,
+        "S_mk_mag": 145.74760434382608,
+        "r": 0.009,
+        "x": 0.068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.077882,
+            35.114907
+          ],
+          [
+            -115.197942,
+            35.316322
+          ]
+        ]
+      },
+      "properties": {
+        "index": 37,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 29,
+        "bus_m": 28,
+        "reg_bus": null,
+        "g": 4.37956204379562,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -37.95620437956205,
+        "b_k": 0.0275,
+        "b_m": 0.0275,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 218,
+        "bus_m_number": 221,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 141.98575497735484,
+        "i_mk_mag": 139.5633659845996,
+        "P_km": -159.97357582587028,
+        "P_mk": 160.56823119953413,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -63.49476362757432,
+        "Q_mk": 60.451569595485125,
+        "Q_k_shunt": -4.040862639275,
+        "Q_m_shunt": -4.1560112979,
+        "S_km_mag": 172.11371232599976,
+        "S_mk_mag": 171.57082833950773,
+        "r": 0.0029999999999999996,
+        "x": 0.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.921164,
+            35.087749
+          ],
+          [
+            -115.29021,
+            36.330981
+          ]
+        ]
+      },
+      "properties": {
+        "index": 38,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 30,
+        "bus_m": 27,
+        "reg_bus": null,
+        "g": 1.247660636306925,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.357454772301935,
+        "b_k": 0.1105,
+        "b_m": 0.1105,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 217,
+        "bus_m_number": 222,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 132.10750190955324,
+        "i_mk_mag": 129.85504094283314,
+        "P_km": -156.30720036649402,
+        "P_mk": 158.71218187767792,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -20.2605549281693,
+        "Q_mk": 6.038126820623199,
+        "Q_k_shunt": -15.729010744719998,
+        "Q_m_shunt": -16.530778696705,
+        "S_km_mag": 157.6148183782498,
+        "S_mk_mag": 158.82699912758866,
+        "r": 0.013999999999999997,
+        "x": 0.10499999999999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.921164,
+            35.087749
+          ],
+          [
+            -115.077882,
+            35.114907
+          ]
+        ]
+      },
+      "properties": {
+        "index": 39,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 30,
+        "bus_m": 29,
+        "reg_bus": null,
+        "g": 10,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -70,
+        "b_k": 0.015,
+        "b_m": 0.015,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 217,
+        "bus_m_number": 218,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 218.80345838520458,
+        "i_mk_mag": 216.98903488834867,
+        "P_km": -226.02472584674675,
+        "P_mk": 226.9744521468999,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -130.61371113666306,
+        "Q_mk": 132.92252851398462,
+        "Q_k_shunt": -2.1351598295999996,
+        "Q_m_shunt": -2.20410689415,
+        "S_km_mag": 261.05003013021985,
+        "S_mk_mag": 263.0319382013074,
+        "r": 0.002,
+        "x": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.730763,
+            35.26149
+          ],
+          [
+            -114.921164,
+            35.087749
+          ]
+        ]
+      },
+      "properties": {
+        "index": 40,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 31,
+        "bus_m": 30,
+        "reg_bus": null,
+        "g": 4.37956204379562,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -37.95620437956205,
+        "b_k": 0.0275,
+        "b_m": 0.0275,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 216,
+        "bus_m_number": 217,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 361.61313906509935,
+        "i_mk_mag": 364.14745765220414,
+        "P_km": -402.2800532374237,
+        "P_mk": 406.23306107962856,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 180.2957588864,
+        "Q_mk": -154.03774640249216,
+        "Q_k_shunt": -4.0869291275999995,
+        "Q_m_shunt": -3.914459687599999,
+        "S_km_mag": 440.83534557148135,
+        "S_mk_mag": 434.45704877569165,
+        "r": 0.0029999999999999996,
+        "x": 0.026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.575774,
+            35.148591
+          ],
+          [
+            -113.960252,
+            35.356438
+          ]
+        ]
+      },
+      "properties": {
+        "index": 41,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 32,
+        "bus_m": 25,
+        "reg_bus": null,
+        "g": 2.5426807119506,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -18.88848528877588,
+        "b_k": 0.0545,
+        "b_m": 0.0545,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 215,
+        "bus_m_number": 224,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 189.44730169801053,
+        "i_mk_mag": 182.92648819240083,
+        "P_km": 200.34281434210212,
+        "P_mk": -197.91171442585514,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -110.4210305406571,
+        "Q_mk": 112.10774382287143,
+        "Q_k_shunt": -7.9464065625,
+        "Q_m_shunt": -8.426479533120002,
+        "S_km_mag": 228.75761680034773,
+        "S_mk_mag": 227.45811247795893,
+        "r": 0.007,
+        "x": 0.052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.575774,
+            35.148591
+          ],
+          [
+            -115.197942,
+            35.316322
+          ]
+        ]
+      },
+      "properties": {
+        "index": 42,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 32,
+        "bus_m": 28,
+        "reg_bus": null,
+        "g": 2.462043496101764,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.10668855149774,
+        "b_k": 0.0515,
+        "b_m": 0.0515,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 215,
+        "bus_m_number": 221,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 309.568748911957,
+        "i_mk_mag": 309.2983364774882,
+        "P_km": -373.72273089489426,
+        "P_mk": 379.479844484454,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 7.806947527108867,
+        "Q_mk": 23.917414730124523,
+        "Q_k_shunt": -7.508989687499999,
+        "Q_m_shunt": -7.783075703340001,
+        "S_km_mag": 373.8042643111881,
+        "S_mk_mag": 380.23281696523543,
+        "r": 0.006000000000000001,
+        "x": 0.049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.575774,
+            35.148591
+          ],
+          [
+            -114.730763,
+            35.26149
+          ]
+        ]
+      },
+      "properties": {
+        "index": 43,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 32,
+        "bus_m": 31,
+        "reg_bus": null,
+        "g": 6.8259385665529,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -58.02047781569966,
+        "b_k": 0.018,
+        "b_m": 0.018,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 215,
+        "bus_m_number": 216,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 70.79043579855994,
+        "i_mk_mag": 66.60851210406551,
+        "P_km": -24.002543217679317,
+        "P_mk": 24.096956512522105,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -82.04032240984715,
+        "Q_mk": 77.5432532824897,
+        "Q_k_shunt": -2.62450125,
+        "Q_m_shunt": -2.6750808835199997,
+        "S_km_mag": 85.47945122676111,
+        "S_mk_mag": 81.20110493582419,
+        "r": 0.002,
+        "x": 0.017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.492568,
+            35.567611
+          ],
+          [
+            -114.730763,
+            35.26149
+          ]
+        ]
+      },
+      "properties": {
+        "index": 44,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 33,
+        "bus_m": 31,
+        "reg_bus": null,
+        "g": 1.426126640045636,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -16.82829435253851,
+        "b_k": 0.041,
+        "b_m": 0.041,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 300,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 214,
+        "bus_m_number": 216,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 291.91054284525103,
+        "i_mk_mag": 297.8637207574265,
+        "P_km": -302.152235364297,
+        "P_mk": 306.5097977343381,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 233.01958034224845,
+        "Q_mk": -194.69890558236338,
+        "Q_k_shunt": -7.005321416359999,
+        "Q_m_shunt": -6.093239790239999,
+        "S_km_mag": 381.56794697474146,
+        "S_mk_mag": 363.11970470096344,
+        "r": 0.004999999999999999,
+        "x": 0.05899999999999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.622896,
+            36.146095
+          ],
+          [
+            -115.536446,
+            35.82435
+          ]
+        ]
+      },
+      "properties": {
+        "index": 45,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 34,
+        "bus_m": 26,
+        "reg_bus": null,
+        "g": 1.430429128738622,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.31339401820546,
+        "b_k": 0.091,
+        "b_m": 0.091,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 213,
+        "bus_m_number": 223,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 212.4605246716729,
+        "i_mk_mag": 227.30226484557411,
+        "P_km": -227.82221042490275,
+        "P_mk": 233.17279385358228,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 183.79152408699017,
+        "Q_mk": -173.6327507520491,
+        "Q_k_shunt": -17.27332431916,
+        "Q_m_shunt": -14.8861531,
+        "S_km_mag": 292.71536326115057,
+        "S_mk_mag": 290.71959673748927,
+        "r": 0.011,
+        "x": 0.087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.146165,
+            35.791445
+          ],
+          [
+            -115.536446,
+            35.82435
+          ]
+        ]
+      },
+      "properties": {
+        "index": 46,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 35,
+        "bus_m": 26,
+        "reg_bus": null,
+        "g": 1.256149900554799,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.15387836281796,
+        "b_k": 0.1015,
+        "b_m": 0.1015,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 212,
+        "bus_m_number": 223,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 228.2530807056735,
+        "i_mk_mag": 244.66300483313668,
+        "P_km": -248.3533941249112,
+        "P_mk": 255.11538495798348,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 199.4970085322355,
+        "Q_mk": -181.21136721510268,
+        "Q_k_shunt": -19.769998433535,
+        "Q_m_shunt": -16.603786149999998,
+        "S_km_mag": 318.5568470252591,
+        "S_mk_mag": 312.92398318158183,
+        "r": 0.011999999999999999,
+        "x": 0.097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.146165,
+            35.791445
+          ],
+          [
+            -114.622896,
+            36.146095
+          ]
+        ]
+      },
+      "properties": {
+        "index": 47,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 35,
+        "bus_m": 34,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 212,
+        "bus_m_number": 213,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 76.58597957340736,
+        "i_mk_mag": 84.42435283027123,
+        "P_km": -91.66262874080972,
+        "P_mk": 92.05046158522374,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 54.97738955936639,
+        "Q_mk": -71.10447982655461,
+        "Q_k_shunt": -9.7389154845,
+        "Q_m_shunt": -9.490837538000001,
+        "S_km_mag": 106.8856906720345,
+        "S_mk_mag": 116.31480786837788,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.167552,
+            35.801485
+          ],
+          [
+            -114.492568,
+            35.567611
+          ]
+        ]
+      },
+      "properties": {
+        "index": 48,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 36,
+        "bus_m": 33,
+        "reg_bus": null,
+        "g": 2.794857462269424,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -23.47680268306316,
+        "b_k": 0.044,
+        "b_m": 0.044,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 211,
+        "bus_m_number": 214,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 203.29661064670796,
+        "i_mk_mag": 214.24523338865535,
+        "P_km": -105.96841183130925,
+        "P_mk": 108.15145494091958,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 260.71033924080547,
+        "Q_mk": -258.3223435863201,
+        "Q_k_shunt": -8.431660556,
+        "Q_m_shunt": -7.517905910239999,
+        "S_km_mag": 281.42349811823783,
+        "S_mk_mag": 280.0485143716469,
+        "r": 0.005,
+        "x": 0.042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.167552,
+            35.801485
+          ],
+          [
+            -114.622896,
+            36.146095
+          ]
+        ]
+      },
+      "properties": {
+        "index": 49,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 36,
+        "bus_m": 34,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 211,
+        "bus_m_number": 213,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 114.51267591598312,
+        "i_mk_mag": 117.81060295944145,
+        "P_km": -155.2593319426057,
+        "P_mk": 156.0681870879093,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 31.985898070621932,
+        "Q_mk": -44.58732689619314,
+        "Q_k_shunt": -9.581432450000001,
+        "Q_m_shunt": -9.490837538000001,
+        "S_km_mag": 158.5198972704955,
+        "S_mk_mag": 162.31238012134088,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.162881,
+            35.787823
+          ],
+          [
+            -114.146165,
+            35.791445
+          ]
+        ]
+      },
+      "properties": {
+        "index": 50,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 37,
+        "bus_m": 35,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 210,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 210,
+        "bus_m_number": 212,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 232.9715719108781,
+        "i_mk_mag": 232.97157191087808,
+        "P_km": -204.18557703147627,
+        "P_mk": 205.2710920978488,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 297.74470858583834,
+        "Q_mk": -252.15307579819282,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 361.0313855588496,
+        "S_mk_mag": 325.14211490597876,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.162881,
+            35.787823
+          ],
+          [
+            -114.167552,
+            35.801485
+          ]
+        ]
+      },
+      "properties": {
+        "index": 51,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 37,
+        "bus_m": 36,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 210,
+        "bus_m_number": 211,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 228.55391431272983,
+        "i_mk_mag": 228.55391431273011,
+        "P_km": -162.61943413300114,
+        "P_mk": 163.66417196795453,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 314.64621151141364,
+        "Q_mk": -270.76722244337077,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 354.1854299321511,
+        "S_mk_mag": 316.38718358311235,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.150833,
+            35.805107
+          ],
+          [
+            -114.146165,
+            35.791445
+          ]
+        ]
+      },
+      "properties": {
+        "index": 52,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 38,
+        "bus_m": 35,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 209,
+        "bus_m_number": 212,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 96.5645141880153,
+        "i_mk_mag": 96.56451418801532,
+        "P_km": -134.5613694070075,
+        "P_mk": 134.74786351501487,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 10.181548088654324,
+        "Q_mk": -2.3487955523460613,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 134.94601164232574,
+        "S_mk_mag": 134.76833293621985,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.150833,
+            35.805107
+          ],
+          [
+            -114.167552,
+            35.801485
+          ]
+        ]
+      },
+      "properties": {
+        "index": 53,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 38,
+        "bus_m": 36,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 209,
+        "bus_m_number": 211,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 72.2355524839251,
+        "i_mk_mag": 72.23555248392528,
+        "P_km": -97.45534843166904,
+        "P_mk": 97.55970793252219,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 26.320247153203624,
+        "Q_mk": -21.93714811737202,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 100.9470175297108,
+        "S_mk_mag": 99.99567530349776,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.317701,
+            35.933814
+          ],
+          [
+            -114.162881,
+            35.787823
+          ]
+        ]
+      },
+      "properties": {
+        "index": 54,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 39,
+        "bus_m": 37,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 208,
+        "bus_m_number": 210,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 53.295329943109415,
+        "i_mk_mag": 47.16226899324899,
+        "P_km": -31.76973725240151,
+        "P_mk": 32.857729728418846,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -71.34400769339115,
+        "Q_mk": 65.28395758792517,
+        "Q_k_shunt": -4.8315117248999995,
+        "Q_m_shunt": -5.403393230399999,
+        "S_km_mag": 78.09791059203367,
+        "S_mk_mag": 73.0864250134581,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.317701,
+            35.933814
+          ],
+          [
+            -114.150833,
+            35.805107
+          ]
+        ]
+      },
+      "properties": {
+        "index": 55,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 39,
+        "bus_m": 38,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 208,
+        "bus_m_number": 209,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 46.18773323419815,
+        "i_mk_mag": 52.182167212031814,
+        "P_km": -25.243083051315285,
+        "P_mk": 26.286595548082303,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 62.79903235577433,
+        "Q_mk": -68.02044362301169,
+        "Q_k_shunt": -4.8315117248999995,
+        "Q_m_shunt": -4.394075402024999,
+        "S_km_mag": 67.68258052672927,
+        "S_mk_mag": 72.9230132137981,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.082849,
+            36.052467
+          ],
+          [
+            -113.317701,
+            35.933814
+          ]
+        ]
+      },
+      "properties": {
+        "index": 56,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 40,
+        "bus_m": 39,
+        "reg_bus": null,
+        "g": 4.023133014835303,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.33819461905959,
+        "b_k": 0.0085,
+        "b_m": 0.0085,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 207,
+        "bus_m_number": 208,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 79.28179653291971,
+        "i_mk_mag": 79.84840459597972,
+        "P_km": 114.99791898822886,
+        "P_mk": -113.98473619572194,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 26.581106543975324,
+        "Q_mk": -26.42747967974391,
+        "Q_k_shunt": -1.8838947694600001,
+        "Q_m_shunt": -1.82523776274,
+        "S_km_mag": 118.0299817704189,
+        "S_mk_mag": 117.00825512685675,
+        "r": 0.016,
+        "x": 0.061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.890347,
+            35.787397
+          ],
+          [
+            -114.162881,
+            35.787823
+          ]
+        ]
+      },
+      "properties": {
+        "index": 57,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 41,
+        "bus_m": 37,
+        "reg_bus": null,
+        "g": 3.5741639009446,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.57314271125862,
+        "b_k": 1.2295,
+        "b_m": 1.2295,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 206,
+        "bus_m_number": 210,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 91.78695850654115,
+        "i_mk_mag": 473.6960917910625,
+        "P_km": -100.70621761959177,
+        "P_mk": 112.22867873555886,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 120.49481073744231,
+        "Q_mk": -725.4476503780758,
+        "Q_k_shunt": -359.892427598695,
+        "Q_m_shunt": -295.26542119008,
+        "S_km_mag": 157.03738943925623,
+        "S_mk_mag": 734.0773595267736,
+        "r": 0.014,
+        "x": 0.061000000000000006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.983041,
+            36.07923
+          ],
+          [
+            -114.162881,
+            35.787823
+          ]
+        ]
+      },
+      "properties": {
+        "index": 58,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 42,
+        "bus_m": 37,
+        "reg_bus": null,
+        "g": 2.780128127644144,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.63701196663846,
+        "b_k": 0.012,
+        "b_m": 0.012,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 205,
+        "bus_m_number": 210,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 19.299682664230215,
+        "i_mk_mag": 17.951058770210505,
+        "P_km": -26.639318370439824,
+        "P_mk": 26.71850429679754,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -13.168777311662867,
+        "Q_mk": 7.744980707639507,
+        "Q_k_shunt": -2.8449591211200005,
+        "Q_m_shunt": -2.88180972288,
+        "S_km_mag": 29.71649338542183,
+        "S_mk_mag": 27.818396755019815,
+        "r": 0.023,
+        "x": 0.088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.221868,
+            36.190292
+          ],
+          [
+            -114.150833,
+            35.805107
+          ]
+        ]
+      },
+      "properties": {
+        "index": 59,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 43,
+        "bus_m": 38,
+        "reg_bus": null,
+        "g": 2.338674750974448,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.008228670420095,
+        "b_k": 0.014,
+        "b_m": 0.014,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 204,
+        "bus_m_number": 209,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 64.30543754581134,
+        "i_mk_mag": 68.06844702916582,
+        "P_km": -31.14125788566522,
+        "P_mk": 32.32565229874629,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 88.32130752600362,
+        "Q_mk": -89.46258374775398,
+        "Q_k_shunt": -2.96929667384,
+        "Q_m_shunt": -2.73409136126,
+        "S_km_mag": 93.65058091546689,
+        "S_mk_mag": 95.12361266984837,
+        "r": 0.026999999999999996,
+        "x": 0.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.975934,
+            35.354402
+          ],
+          [
+            -113.960252,
+            35.356438
+          ]
+        ]
+      },
+      "properties": {
+        "index": 60,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 44,
+        "bus_m": 25,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 203,
+        "bus_m_number": 224,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 182.93286671181775,
+        "i_mk_mag": 182.93286671181806,
+        "P_km": -197.24153946345598,
+        "P_mk": 197.91082813792403,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 140.2355236828928,
+        "Q_mk": -112.12539935523438,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 242.01286534506642,
+        "S_mk_mag": 227.46604378414307,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.975934,
+            35.354402
+          ],
+          [
+            -114.150833,
+            35.805107
+          ]
+        ]
+      },
+      "properties": {
+        "index": 61,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 44,
+        "bus_m": 38,
+        "reg_bus": null,
+        "g": 2.049993387118106,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.869329453775956,
+        "b_k": 0.016,
+        "b_m": 0.016,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 203,
+        "bus_m_number": 209,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 65.17626821169712,
+        "i_mk_mag": 60.825141843044506,
+        "P_km": 2.8316665422512877,
+        "P_mk": -1.598903978663646,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -86.17908699047074,
+        "Q_mk": 84.98627167327415,
+        "Q_k_shunt": -2.8003570585599995,
+        "Q_m_shunt": -3.12467584144,
+        "S_km_mag": 86.22559579334681,
+        "S_mk_mag": 85.00131097139942,
+        "r": 0.031,
+        "x": 0.119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.745998,
+            36.289963
+          ],
+          [
+            -113.890347,
+            35.787397
+          ]
+        ]
+      },
+      "properties": {
+        "index": 62,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 45,
+        "bus_m": 41,
+        "reg_bus": null,
+        "g": 1.270196118280662,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.877553094197744,
+        "b_k": 0.026,
+        "b_m": 0.026,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 202,
+        "bus_m_number": 206,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 94.99933229796179,
+        "i_mk_mag": 86.78776084895229,
+        "P_km": 39.4460997012009,
+        "P_mk": -35.29515429066596,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -142.17073549931183,
+        "Q_mk": 144.22844047166652,
+        "Q_k_shunt": -6.27134946464,
+        "Q_m_shunt": -7.61057593946,
+        "S_km_mag": 147.5415630053185,
+        "S_mk_mag": 148.484312158864,
+        "r": 0.05,
+        "x": 0.192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.745998,
+            36.289963
+          ],
+          [
+            -114.221868,
+            36.190292
+          ]
+        ]
+      },
+      "properties": {
+        "index": 63,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 45,
+        "bus_m": 43,
+        "reg_bus": null,
+        "g": 1.91659890811941,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.376001858520153,
+        "b_k": 0.017,
+        "b_m": 0.017,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 202,
+        "bus_m_number": 204,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 72.0993156585948,
+        "i_mk_mag": 76.80837386013835,
+        "P_km": 44.69313136465294,
+        "P_mk": -42.860192396465635,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 102.67010149550535,
+        "Q_mk": -103.32213590763945,
+        "Q_k_shunt": -4.1004977268800005,
+        "Q_m_shunt": -3.6055745325200004,
+        "S_km_mag": 111.97600516305042,
+        "S_mk_mag": 111.85910718747387,
+        "r": 0.033,
+        "x": 0.127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.721496,
+            36.255664
+          ],
+          [
+            -113.983041,
+            36.07923
+          ]
+        ]
+      },
+      "properties": {
+        "index": 64,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 46,
+        "bus_m": 42,
+        "reg_bus": null,
+        "g": 2.853807238292904,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.02607342067713,
+        "b_k": 0.0115,
+        "b_m": 0.0115,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 201,
+        "bus_m_number": 205,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 28.936557946400338,
+        "i_mk_mag": 28.811951983442043,
+        "P_km": 44.538359550204554,
+        "P_mk": -44.3554531766936,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -3.951964600046079,
+        "Q_mk": -0.8136314175173458,
+        "Q_k_shunt": -2.74586057566,
+        "Q_m_shunt": -2.72641915774,
+        "S_km_mag": 44.71334806993673,
+        "S_mk_mag": 44.36291494698506,
+        "r": 0.022000000000000002,
+        "x": 0.085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.721496,
+            36.255664
+          ],
+          [
+            -113.975934,
+            35.354402
+          ]
+        ]
+      },
+      "properties": {
+        "index": 65,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 46,
+        "bus_m": 44,
+        "reg_bus": null,
+        "g": 1.156774492070837,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.437807596853573,
+        "b_k": 0.0285,
+        "b_m": 0.0285,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 201,
+        "bus_m_number": 203,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 99.76212885141854,
+        "i_mk_mag": 107.92541837217964,
+        "P_km": 10.22380196774999,
+        "P_mk": -4.257059773598604,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 153.8150325589767,
+        "Q_mk": -142.71753460627772,
+        "Q_k_shunt": -6.804958817940002,
+        "Q_m_shunt": -4.988136010559999,
+        "S_km_mag": 154.15443674378898,
+        "S_mk_mag": 142.78101148965877,
+        "r": 0.05500000000000001,
+        "x": 0.211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.721496,
+            36.255664
+          ],
+          [
+            -113.745998,
+            36.289963
+          ]
+        ]
+      },
+      "properties": {
+        "index": 66,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 46,
+        "bus_m": 45,
+        "reg_bus": null,
+        "g": 14.63414634146341,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -68.29268292682926,
+        "b_k": 0.2305,
+        "b_m": 0.2305,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 201,
+        "bus_m_number": 202,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 93.21734650502768,
+        "i_mk_mag": 22.40519000059356,
+        "P_km": 9.233686318319911,
+        "P_mk": -9.133743695968377,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -143.745043376428,
+        "Q_mk": 33.57692046359041,
+        "Q_k_shunt": -55.03659675562,
+        "Q_m_shunt": -55.59792506152,
+        "S_km_mag": 144.04130816649888,
+        "S_mk_mag": 34.79705248612184,
+        "r": 0.003000000000000001,
+        "x": 0.014000000000000004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.068788,
+            34.382
+          ],
+          [
+            -114.921164,
+            35.087749
+          ]
+        ]
+      },
+      "properties": {
+        "index": 67,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 48,
+        "bus_m": 30,
+        "reg_bus": null,
+        "g": 1.793400286944046,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -13.27116212338594,
+        "b_k": 0.0775,
+        "b_m": 0.0775,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 123,
+        "bus_m_number": 217,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 273.23620326484445,
+        "i_mk_mag": 256.3185129653955,
+        "P_km": 30.959594872905715,
+        "P_mk": -23.908575023811096,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -271.47656668650603,
+        "Q_mk": 304.8724544502068,
+        "Q_k_shunt": -7.75,
+        "Q_m_shunt": -11.031659119599999,
+        "S_km_mag": 273.23620326484445,
+        "S_mk_mag": 305.808491448754,
+        "r": 0.01,
+        "x": 0.07399999999999998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.329508,
+            33.506184
+          ],
+          [
+            -114.656488,
+            33.542965
+          ]
+        ]
+      },
+      "properties": {
+        "index": 68,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 50,
+        "bus_m": 47,
+        "reg_bus": null,
+        "g": 2.5426807119506,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -18.88848528877588,
+        "b_k": 0.0545,
+        "b_m": 0.0545,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 115,
+        "bus_m_number": 124,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 194.65989749387143,
+        "i_mk_mag": 191.12693863502096,
+        "P_km": 180.42460605451765,
+        "P_mk": -177.8144521681525,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -58.04783575494811,
+        "Q_mk": 66.88618729880955,
+        "Q_k_shunt": -5.16667518602,
+        "Q_m_shunt": -5.3846878545450005,
+        "S_km_mag": 189.53255579388286,
+        "S_mk_mag": 189.9782657338245,
+        "r": 0.007,
+        "x": 0.052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.329508,
+            33.506184
+          ],
+          [
+            -115.321058,
+            33.661031
+          ]
+        ]
+      },
+      "properties": {
+        "index": 69,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 50,
+        "bus_m": 49,
+        "reg_bus": null,
+        "g": 6.8259385665529,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -58.02047781569966,
+        "b_k": 0.018,
+        "b_m": 0.018,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 115,
+        "bus_m_number": 116,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 44.68137479085428,
+        "i_mk_mag": 41.41889172015622,
+        "P_km": -15.709408894876642,
+        "P_mk": 15.746477854899421,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -40.56911576670289,
+        "Q_mk": 37.446339467595976,
+        "Q_k_shunt": -1.7064248320799997,
+        "Q_m_shunt": -1.7314376272199998,
+        "S_km_mag": 43.504467378863175,
+        "S_mk_mag": 40.622406432377616,
+        "r": 0.002,
+        "x": 0.017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.819911,
+            33.777086
+          ],
+          [
+            -115.321058,
+            33.661031
+          ]
+        ]
+      },
+      "properties": {
+        "index": 70,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 51,
+        "bus_m": 49,
+        "reg_bus": null,
+        "g": 1.426126640045636,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -16.82829435253851,
+        "b_k": 0.041,
+        "b_m": 0.041,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 114,
+        "bus_m_number": 116,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 289.94453503654995,
+        "i_mk_mag": 293.4441276475694,
+        "P_km": -264.321434161704,
+        "P_mk": 268.5853216595315,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 145.3320698797151,
+        "Q_mk": -103.39948755020048,
+        "Q_k_shunt": -4.43745999396,
+        "Q_m_shunt": -3.94383015089,
+        "S_km_mag": 301.64089757992434,
+        "S_mk_mag": 287.80119707290663,
+        "r": 0.004999999999999999,
+        "x": 0.05899999999999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.274657,
+            34.35428
+          ],
+          [
+            -114.575774,
+            35.148591
+          ]
+        ]
+      },
+      "properties": {
+        "index": 71,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 52,
+        "bus_m": 32,
+        "reg_bus": null,
+        "g": 1.746724890829694,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -13.10043668122271,
+        "b_k": 0.079,
+        "b_m": 0.079,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 2000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 113,
+        "bus_m_number": 215,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 142.08741066386148,
+        "i_mk_mag": 127.42909820241901,
+        "P_km": -93.54729107953061,
+        "P_mk": 95.37099320947871,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -128.47386837955082,
+        "Q_mk": 120.74993292637133,
+        "Q_k_shunt": -9.883057052789999,
+        "Q_m_shunt": -11.518644375000001,
+        "S_km_mag": 158.92334795342242,
+        "S_mk_mag": 153.87063607942096,
+        "r": 0.01,
+        "x": 0.075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.274657,
+            34.35428
+          ],
+          [
+            -115.068788,
+            34.382
+          ]
+        ]
+      },
+      "properties": {
+        "index": 72,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 52,
+        "bus_m": 48,
+        "reg_bus": null,
+        "g": 1.430429128738622,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.31339401820546,
+        "b_k": 0.091,
+        "b_m": 0.091,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 2000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 113,
+        "bus_m_number": 123,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 230.08619199762074,
+        "i_mk_mag": 242.95405086797962,
+        "P_km": -183.0218907511408,
+        "P_mk": 189.2188476381826,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 180.91862616168953,
+        "Q_mk": -152.39061169126884,
+        "Q_k_shunt": -11.384280908909998,
+        "Q_m_shunt": -9.1,
+        "S_km_mag": 257.3491048874188,
+        "S_mk_mag": 242.95405086797962,
+        "r": 0.011,
+        "x": 0.087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.313402,
+            33.910866
+          ],
+          [
+            -115.068788,
+            34.382
+          ]
+        ]
+      },
+      "properties": {
+        "index": 73,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 53,
+        "bus_m": 48,
+        "reg_bus": null,
+        "g": 1.256149900554799,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.15387836281796,
+        "b_k": 0.1015,
+        "b_m": 0.1015,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 750,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 112,
+        "bus_m_number": 123,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 240.8726755068174,
+        "i_mk_mag": 252.69885994802044,
+        "P_km": -212.41262777224094,
+        "P_mk": 219.78401118340219,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 161.67585018719416,
+        "Q_mk": -124.70646433590925,
+        "Q_k_shunt": -12.465963388935004,
+        "Q_m_shunt": -10.15,
+        "S_km_mag": 266.94232517692024,
+        "S_mk_mag": 252.69885994802044,
+        "r": 0.011999999999999999,
+        "x": 0.097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.313402,
+            33.910866
+          ],
+          [
+            -114.274657,
+            34.35428
+          ]
+        ]
+      },
+      "properties": {
+        "index": 74,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 53,
+        "bus_m": 52,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 2000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 112,
+        "bus_m_number": 113,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 104.49968285464308,
+        "i_mk_mag": 103.60175323878775,
+        "P_km": -115.08726942763845,
+        "P_mk": 115.73657357210156,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -12.915231899163384,
+        "Q_mk": 5.713696989868297,
+        "Q_k_shunt": -6.140868664500002,
+        "Q_m_shunt": -6.2550994005,
+        "S_km_mag": 115.80968353000112,
+        "S_mk_mag": 115.8775249800517,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.301118,
+            33.904386
+          ],
+          [
+            -114.819911,
+            33.777086
+          ]
+        ]
+      },
+      "properties": {
+        "index": 75,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 54,
+        "bus_m": 51,
+        "reg_bus": null,
+        "g": 2.794857462269424,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -23.47680268306316,
+        "b_k": 0.044,
+        "b_m": 0.044,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 2000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 111,
+        "bus_m_number": 114,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 168.66507071982818,
+        "i_mk_mag": 177.41397303426174,
+        "P_km": -68.82219904678566,
+        "P_mk": 70.32194686826104,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 173.11720562937074,
+        "Q_mk": -170.64941680957673,
+        "Q_k_shunt": -5.36794069196,
+        "Q_m_shunt": -4.76215218864,
+        "S_km_mag": 186.29563056217185,
+        "S_mk_mag": 184.57085270646388,
+        "r": 0.005,
+        "x": 0.042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.301118,
+            33.904386
+          ],
+          [
+            -114.274657,
+            34.35428
+          ]
+        ]
+      },
+      "properties": {
+        "index": 76,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 54,
+        "bus_m": 52,
+        "reg_bus": null,
+        "g": 2.564102564102564,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -20.51282051282051,
+        "b_k": 0.05,
+        "b_m": 0.05,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 2000,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 111,
+        "bus_m_number": 113,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 162.78292254651515,
+        "i_mk_mag": 162.18314728252497,
+        "P_km": -179.5453475739169,
+        "P_mk": 181.13135031976367,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -9.540043836090847,
+        "Q_mk": 9.87303379786519,
+        "Q_k_shunt": -6.0999326045,
+        "Q_m_shunt": -6.2550994005,
+        "S_km_mag": 179.79862144030238,
+        "S_mk_mag": 181.40022840403134,
+        "r": 0.006000000000000001,
+        "x": 0.04800000000000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.292965,
+            33.912793
+          ],
+          [
+            -114.313402,
+            33.910866
+          ]
+        ]
+      },
+      "properties": {
+        "index": 77,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 55,
+        "bus_m": 53,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 200,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 110,
+        "bus_m_number": 112,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 219.18569084855122,
+        "i_mk_mag": 219.18569084855116,
+        "P_km": -191.9175753004506,
+        "P_mk": 192.8784226419057,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 188.0115648008241,
+        "Q_mk": -147.65597645970843,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 268.6646687007032,
+        "S_mk_mag": 242.90815816908986,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.292965,
+            33.912793
+          ],
+          [
+            -114.301118,
+            33.904386
+          ]
+        ]
+      },
+      "properties": {
+        "index": 78,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 55,
+        "bus_m": 54,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 110,
+        "bus_m_number": 111,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 196.4641571749379,
+        "i_mk_mag": 196.46415717493787,
+        "P_km": -150.57564406311675,
+        "P_mk": 151.34760736420594,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 187.93176011367424,
+        "Q_mk": -155.50930146792882,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 240.8139760156084,
+        "S_mk_mag": 217.0005555244341,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.308281,
+            33.920436
+          ],
+          [
+            -114.313402,
+            33.910866
+          ]
+        ]
+      },
+      "properties": {
+        "index": 79,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 56,
+        "bus_m": 53,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 109,
+        "bus_m_number": 112,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 121.48006730975524,
+        "i_mk_mag": 121.48006730975531,
+        "P_km": -134.3278886542607,
+        "P_mk": 134.6230367893324,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 13.535215127499356,
+        "Q_mk": -1.1389934544903113,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 135.0080876053696,
+        "S_mk_mag": 134.62785499469013,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.308281,
+            33.920436
+          ],
+          [
+            -114.301118,
+            33.904386
+          ]
+        ]
+      },
+      "properties": {
+        "index": 80,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 56,
+        "bus_m": 54,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 109,
+        "bus_m_number": 111,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 230,
+        "i_km_mag": 88.13465102514246,
+        "i_mk_mag": 88.13465102514247,
+        "P_km": -96.85825019200854,
+        "P_mk": 97.01360452623501,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 14.579087324925233,
+        "Q_mk": -8.054205287413474,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 97.94932576330233,
+        "S_mk_mag": 97.34736609680063,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.761644,
+            34.459211
+          ],
+          [
+            -114.292965,
+            33.912793
+          ]
+        ]
+      },
+      "properties": {
+        "index": 81,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 57,
+        "bus_m": 55,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 108,
+        "bus_m_number": 110,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 24.70945544532454,
+        "i_mk_mag": 20.999061466012826,
+        "P_km": -19.98788302040073,
+        "P_mk": 20.21160595190521,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -21.660961148643402,
+        "Q_mk": 15.937602137555803,
+        "Q_k_shunt": -3.2013439929,
+        "Q_m_shunt": -3.3804867321,
+        "S_km_mag": 29.473932644292017,
+        "S_mk_mag": 25.73938960135056,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.761644,
+            34.459211
+          ],
+          [
+            -114.308281,
+            33.920436
+          ]
+        ]
+      },
+      "properties": {
+        "index": 82,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 57,
+        "bus_m": 56,
+        "reg_bus": null,
+        "g": 1.478984659833528,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.67517369471005,
+        "b_k": 0.0225,
+        "b_m": 0.0225,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 108,
+        "bus_m_number": 109,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 54.76797546511851,
+        "i_mk_mag": 59.67141167461983,
+        "P_km": -20.693057319224373,
+        "P_mk": 22.10585415442592,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 61.96441662677161,
+        "Q_mk": -62.52358582294032,
+        "Q_k_shunt": -3.2013439929,
+        "Q_m_shunt": -2.779022361599999,
+        "S_km_mag": 65.32833649430265,
+        "S_mk_mag": 66.31642007870549,
+        "r": 0.04299999999999999,
+        "x": 0.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.701309,
+            34.697262
+          ],
+          [
+            -113.975934,
+            35.354402
+          ]
+        ]
+      },
+      "properties": {
+        "index": 83,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 58,
+        "bus_m": 44,
+        "reg_bus": null,
+        "g": 1.517067003792667,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -5.815423514538558,
+        "b_k": 0.022,
+        "b_m": 0.022,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 107,
+        "bus_m_number": 203,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 46.8842539392614,
+        "i_mk_mag": 41.52556319740767,
+        "P_km": -17.8439842829198,
+        "P_mk": 18.667260787446118,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -55.79711888991462,
+        "Q_mk": 51.66788060686566,
+        "Q_k_shunt": -3.4346405948799994,
+        "Q_m_shunt": -3.8504909555199993,
+        "S_km_mag": 58.580937612028336,
+        "S_mk_mag": 54.93665908764245,
+        "r": 0.04200000000000001,
+        "x": 0.16100000000000003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.701309,
+            34.697262
+          ],
+          [
+            -113.761644,
+            34.459211
+          ]
+        ]
+      },
+      "properties": {
+        "index": 84,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 58,
+        "bus_m": 57,
+        "reg_bus": null,
+        "g": 4.023133014835303,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.33819461905959,
+        "b_k": 0.0085,
+        "b_m": 0.0085,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 1500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 107,
+        "bus_m_number": 108,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 125.11561541701361,
+        "i_mk_mag": 126.18288735887724,
+        "P_km": 132.84796657918764,
+        "P_mk": -130.32074562879856,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 82.40338326972646,
+        "Q_mk": -75.30477024574782,
+        "Q_k_shunt": -1.32702022984,
+        "Q_m_shunt": -1.20939661954,
+        "S_km_mag": 156.32945915125015,
+        "S_mk_mag": 150.51347169941593,
+        "r": 0.016,
+        "x": 0.061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.181924,
+            33.738036
+          ],
+          [
+            -114.292965,
+            33.912793
+          ]
+        ]
+      },
+      "properties": {
+        "index": 85,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 59,
+        "bus_m": 55,
+        "reg_bus": null,
+        "g": 3.5741639009446,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -15.57314271125862,
+        "b_k": 1.2295,
+        "b_m": 1.2295,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 100,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 106,
+        "bus_m_number": 110,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 86.68579403611295,
+        "i_mk_mag": 369.1373868720836,
+        "P_km": -96.89169809455818,
+        "P_mk": 103.98845147394438,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 64.621087611539,
+        "Q_mk": -440.354743262742,
+        "Q_k_shunt": -221.93040451968002,
+        "Q_m_shunt": -184.72481942742002,
+        "S_km_mag": 116.4640980033985,
+        "S_mk_mag": 452.4664605845878,
+        "r": 0.014,
+        "x": 0.061000000000000006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.999023,
+            33.65956
+          ],
+          [
+            -114.292965,
+            33.912793
+          ]
+        ]
+      },
+      "properties": {
+        "index": 86,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 60,
+        "bus_m": 55,
+        "reg_bus": null,
+        "g": 2.780128127644144,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -10.63701196663846,
+        "b_k": 0.012,
+        "b_m": 0.012,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 105,
+        "bus_m_number": 110,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 21.392476159230792,
+        "i_mk_mag": 20.228462889965073,
+        "P_km": -23.197155468141517,
+        "P_mk": 23.296452739390674,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -11.680533713132606,
+        "Q_mk": 8.488768292476998,
+        "Q_k_shunt": -1.76875915788,
+        "Q_m_shunt": -1.8029262571200002,
+        "S_km_mag": 25.971963530637325,
+        "S_mk_mag": 24.79483610274579,
+        "r": 0.023,
+        "x": 0.088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.825419,
+            33.812304
+          ],
+          [
+            -114.308281,
+            33.920436
+          ]
+        ]
+      },
+      "properties": {
+        "index": 87,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 61,
+        "bus_m": 56,
+        "reg_bus": null,
+        "g": 2.338674750974448,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -9.008228670420095,
+        "b_k": 0.014,
+        "b_m": 0.014,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 104,
+        "bus_m_number": 109,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 51.891980154667564,
+        "i_mk_mag": 54.49782601119809,
+        "P_km": -33.718237280237375,
+        "P_mk": 34.48315171602423,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 49.16147544478103,
+        "Q_mk": -49.79194584422722,
+        "Q_k_shunt": -1.8476380159999999,
+        "Q_m_shunt": -1.72916946944,
+        "S_km_mag": 59.61350680168211,
+        "S_mk_mag": 60.56670391580511,
+        "r": 0.026999999999999996,
+        "x": 0.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.670399,
+            33.536833
+          ],
+          [
+            -114.656488,
+            33.542965
+          ]
+        ]
+      },
+      "properties": {
+        "index": 88,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 62,
+        "bus_m": 47,
+        "reg_bus": null,
+        "g": 0.28328611898017,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.89801699716714,
+        "b_k": 0,
+        "b_m": 0,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 400,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 103,
+        "bus_m_number": 124,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 230,
+        "i_km_mag": 191.12177551953786,
+        "i_mk_mag": 191.1217755195379,
+        "P_km": -177.08160754616014,
+        "P_mk": 177.81215820771493,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 97.56083634210188,
+        "Q_mk": -66.87770855679993,
+        "Q_k_shunt": 0,
+        "Q_m_shunt": 0,
+        "S_km_mag": 202.1781702333431,
+        "S_mk_mag": 189.97313364866545,
+        "r": 0.0020000000000000005,
+        "x": 0.084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.670399,
+            33.536833
+          ],
+          [
+            -114.308281,
+            33.920436
+          ]
+        ]
+      },
+      "properties": {
+        "index": 89,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 62,
+        "bus_m": 56,
+        "reg_bus": null,
+        "g": 2.049993387118106,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.869329453775956,
+        "b_k": 0.016,
+        "b_m": 0.016,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 500,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 103,
+        "bus_m_number": 109,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 46.836033318161405,
+        "i_mk_mag": 43.36573552817598,
+        "P_km": 1.0303866317749932,
+        "P_mk": -0.39861671517980035,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -49.534782326756044,
+        "Q_mk": 48.19329534413263,
+        "Q_k_shunt": -1.790474596,
+        "Q_m_shunt": -1.9761936793599995,
+        "S_km_mag": 49.54549784561705,
+        "S_mk_mag": 48.19494383659366,
+        "r": 0.031,
+        "x": 0.119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.825934,
+            33.357678
+          ],
+          [
+            -114.181924,
+            33.738036
+          ]
+        ]
+      },
+      "properties": {
+        "index": 90,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 63,
+        "bus_m": 59,
+        "reg_bus": null,
+        "g": 1.270196118280662,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.877553094197744,
+        "b_k": 0.026,
+        "b_m": 0.026,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 102,
+        "bus_m_number": 106,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 77.65632964572575,
+        "i_mk_mag": 71.59347704171874,
+        "P_km": 41.9081408341107,
+        "P_mk": -39.110747001834234,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -85.75582278908622,
+        "Q_mk": 87.8768459105278,
+        "Q_k_shunt": -3.927849619459999,
+        "Q_m_shunt": -4.69311957504,
+        "S_km_mag": 95.44817133085797,
+        "S_mk_mag": 96.18726827508999,
+        "r": 0.05,
+        "x": 0.192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.825934,
+            33.357678
+          ],
+          [
+            -113.825419,
+            33.812304
+          ]
+        ]
+      },
+      "properties": {
+        "index": 91,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 63,
+        "bus_m": 61,
+        "reg_bus": null,
+        "g": 1.91659890811941,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -7.376001858520153,
+        "b_k": 0.017,
+        "b_m": 0.017,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 102,
+        "bus_m_number": 104,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 62.53224402147325,
+        "i_mk_mag": 65.94396624399516,
+        "P_km": 41.64650123756593,
+        "P_mk": -40.28218883116574,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 64.59780032657967,
+        "Q_mk": -64.15903451651843,
+        "Q_k_shunt": -2.5682093665699997,
+        "Q_m_shunt": -2.243560448,
+        "S_km_mag": 76.859006449233,
+        "S_mk_mag": 75.75642842110165,
+        "r": 0.033,
+        "x": 0.127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.835642,
+            33.396103
+          ],
+          [
+            -113.999023,
+            33.65956
+          ]
+        ]
+      },
+      "properties": {
+        "index": 92,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 64,
+        "bus_m": 60,
+        "reg_bus": null,
+        "g": 2.853807238292904,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -11.02607342067713,
+        "b_k": 0.0115,
+        "b_m": 0.0115,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 101,
+        "bus_m_number": 105,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 39.34703634755712,
+        "i_mk_mag": 39.42206060966708,
+        "P_km": 48.1456714832654,
+        "P_mk": -47.80451855235705,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 0.22857873195858863,
+        "Q_mk": -2.3274096556097352,
+        "Q_k_shunt": -1.721860933435,
+        "Q_m_shunt": -1.6950608596349999,
+        "S_km_mag": 48.14621408596131,
+        "S_mk_mag": 47.861141124378506,
+        "r": 0.022000000000000002,
+        "x": 0.085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.835642,
+            33.396103
+          ],
+          [
+            -114.670399,
+            33.536833
+          ]
+        ]
+      },
+      "properties": {
+        "index": 93,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 64,
+        "bus_m": 62,
+        "reg_bus": null,
+        "g": 1.156774492070837,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -4.437807596853573,
+        "b_k": 0.0285,
+        "b_m": 0.0285,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 101,
+        "bus_m_number": 103,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          1
+        ],
+        "v_base": 138,
+        "i_km_mag": 73.9760630396865,
+        "i_mk_mag": 80.46421072959275,
+        "P_km": 7.248932913969908,
+        "P_mk": -3.9495255065261636,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": 90.22861008782561,
+        "Q_mk": -85.02738693664968,
+        "Q_k_shunt": -4.267220574165,
+        "Q_m_shunt": -3.1892828741250003,
+        "S_km_mag": 90.51933001725158,
+        "S_mk_mag": 85.1190653202997,
+        "r": 0.05500000000000001,
+        "x": 0.211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.835642,
+            33.396103
+          ],
+          [
+            -113.825934,
+            33.357678
+          ]
+        ]
+      },
+      "properties": {
+        "index": 94,
+        "oindex": -1,
+        "type": "Line",
+        "num_periods": 1,
+        "name": "1",
+        "bus_k": 64,
+        "bus_m": 63,
+        "reg_bus": null,
+        "g": 14.63414634146341,
+        "g_k": 0,
+        "g_m": 0,
+        "b": -68.29268292682926,
+        "b_k": 0.2305,
+        "b_m": 0.2305,
+        "ratio": [
+          1
+        ],
+        "ratio_max": 1,
+        "ratio_min": 1,
+        "num_ratios": 33,
+        "phase": [
+          0
+        ],
+        "phase_max": 0,
+        "phase_min": 0,
+        "ratingA": 175,
+        "ratingB": 0,
+        "ratingC": 0,
+        "in_service": true,
+        "pos_ratio_v_sens": true,
+        "bus_k_number": 101,
+        "bus_m_number": 102,
+        "reg_bus_number": null,
+        "status": "in-service",
+        "energized": [
+          0
+        ],
+        "v_base": 138,
+        "i_km_mag": 69.20217612504003,
+        "i_mk_mag": 14.15510062559269,
+        "P_km": 8.61892765055714,
+        "P_mk": -8.567895572737427,
+        "P_k_shunt": 0,
+        "P_m_shunt": 0,
+        "Q_km": -84.23807839893654,
+        "Q_mk": 15.14224831997948,
+        "Q_k_shunt": -34.512082187545005,
+        "Q_m_shunt": -34.82189758790499,
+        "S_km_mag": 84.67785877188273,
+        "S_mk_mag": 17.398175729922233,
+        "r": 0.003000000000000001,
+        "x": 0.014000000000000004
+      }
+    }
+  ]
+}
